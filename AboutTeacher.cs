@@ -10,10 +10,10 @@ namespace Home11
     {
         public void TeacherInfo()
         {
-            string[] Teachers = { "Oksana Ivanivna", "Stepan Stetham - Science", "Taras olegovich" };
-            foreach (var t in Teachers)
+            string[] Teachers = { "Oksana Ivanivna", "Stepan Stetham ", "Taras olegovich" };
+            for (int i = 0; i < Teachers.Length; i++)
             {
-                Console.WriteLine(t);
+                Console.WriteLine(Teachers[i]);
             }
         }
     }

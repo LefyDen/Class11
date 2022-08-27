@@ -7,7 +7,7 @@ namespace Home11
         static void Main(string[] args)
         {
             StudentInf newSoul = new StudentInf();
-            Console.WriteLine("Hello" + newSoul.StudentInformation());
+            Console.WriteLine("Hi" + newSoul.StudentInformation());
 
             Clas classmates = new Clas();
             classmates.Newstudenst = newSoul.name;

@@ -16,13 +16,16 @@ namespace Home11
         }
         public void Students()
         {
-        string[] pupils = { "Adolf Mark", "Zina Kolo", };
-        int L = pupils.Length;
-            pupils[L + 1] = newStudents;
+            string[] pupils = { "Adolf Mark", "Zina Kolo","Zina Kolo", "Zina Kolo", "Zina Kolo", "Zina Kolo" };            
+            string[] UpdatePupils = new string[pupils.Length+1];
+            pupils.CopyTo(UpdatePupils, 0);
+            UpdatePupils[UpdatePupils.Length-1] = newStudents;
 
-            foreach (var classmates in pupils)
+
+            for (int i = 0; i < UpdatePupils.Length; i++)
             {
-                Console.WriteLine(classmates);
+                Console.WriteLine(UpdatePupils[i]);
             }
         }
+    }
 }

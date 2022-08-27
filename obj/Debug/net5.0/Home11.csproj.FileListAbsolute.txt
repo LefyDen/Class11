@@ -1,0 +1,16 @@
+D:\Beatroot\Home11\obj\Debug\net5.0\Home11.csproj.AssemblyReference.cache
+D:\Beatroot\Home11\obj\Debug\net5.0\Home11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Beatroot\Home11\obj\Debug\net5.0\Home11.AssemblyInfoInputs.cache
+D:\Beatroot\Home11\obj\Debug\net5.0\Home11.AssemblyInfo.cs
+D:\Beatroot\Home11\obj\Debug\net5.0\Home11.csproj.CoreCompileInputs.cache
+D:\Beatroot\Home11\bin\Debug\net5.0\Home11.exe
+D:\Beatroot\Home11\bin\Debug\net5.0\Home11.deps.json
+D:\Beatroot\Home11\bin\Debug\net5.0\Home11.runtimeconfig.json
+D:\Beatroot\Home11\bin\Debug\net5.0\Home11.runtimeconfig.dev.json
+D:\Beatroot\Home11\bin\Debug\net5.0\Home11.dll
+D:\Beatroot\Home11\bin\Debug\net5.0\ref\Home11.dll
+D:\Beatroot\Home11\bin\Debug\net5.0\Home11.pdb
+D:\Beatroot\Home11\obj\Debug\net5.0\Home11.dll
+D:\Beatroot\Home11\obj\Debug\net5.0\ref\Home11.dll
+D:\Beatroot\Home11\obj\Debug\net5.0\Home11.pdb
+D:\Beatroot\Home11\obj\Debug\net5.0\Home11.genruntimeconfig.cache

@@ -11,12 +11,13 @@ namespace Home11
         public void Schedulee()
         {
             string[] AllSchedule = { "Monday 8:30 - Poety", "Thusday 8:30 - History" };
-            int L = AllSchedule.Length;
-            AllSchedule[L + 1] = Day+" "+time+" " +lesson;
+            string[] UpdateSchedule = new string[AllSchedule.Length + 1];
+            AllSchedule.CopyTo(UpdateSchedule, 0);
+            UpdateSchedule[UpdateSchedule.Length - 1] = Day+" "+ time+" "+ lesson;
 
-            foreach (var Schedule in AllSchedule)
+            for (int i = 0; i < UpdateSchedule.Length; i++)
             {
-                Console.WriteLine(classmates);
+                Console.WriteLine(UpdateSchedule[i]);
             }
 
         }
